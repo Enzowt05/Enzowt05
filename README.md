@@ -1,4 +1,4 @@
-- 🦕 A small 365-day project.
+- 🦕 Maybe I forgot something.
 - 🐊 Let's gooo
 - 🐉 One Code, One Dream.
 
