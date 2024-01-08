@@ -1,7 +1,7 @@
 - 🐱‍👤 I like a challenge.
 - 🦕 Maybe I forgot something.
 - 🐊 Let's goooooooo
-- 🐉 One Code, One Dream.
+- 🐉 I love learn new things
 
 
 
