@@ -1,5 +1,6 @@
+- 🐱‍👤 I like a challenge.
 - 🦕 Maybe I forgot something.
-- 🐊 Let's gooo
+- 🐊 Let's goooooooo
 - 🐉 One Code, One Dream.
 
 
