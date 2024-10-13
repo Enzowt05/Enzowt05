@@ -1,4 +1,4 @@
-´´´js
+```js
 import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
@@ -13,4 +13,4 @@ class Skills extends Desenvolvedor {
   bibliotecas = ["Suas bibliotecas"];
   frameworks = ["Seus frameworks"];
 }
-´´´
+```
