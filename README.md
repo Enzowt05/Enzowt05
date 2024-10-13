@@ -10,7 +10,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens = ["C++, C#, JavaScript, React, React-Native, MySQL"];
-  utilidades = ["Insomnia", "Node.js", "XML", "JSON"];
+  utilidades = ["Insomnia", "Node.js", "XML", "JSON", "Firebase"];
   ferramentas = ["Visual Studio", "Visual Studio Code", "Android Studio", "Figma", "Adobe Photoshop", "Adobe Illustrator"];
 }
 ```
