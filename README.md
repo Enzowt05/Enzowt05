@@ -4,7 +4,7 @@ import Desenvolvedor from "Enzowt";
 class SobreMim extends Desenvolvedor {
   nome = "Enzo Moia";
   area = "Full Stack";
-  trabalho = "Estudante de Desenvolvimento de Sistemas";
+  trabalho = "Técnico de Desenvolvimento de Sistemas";
   local = "São Paulo";
 }
 
